@@ -1,6 +1,6 @@
 $filePath = "file.exe"
 
-$encryptedFilePath = "C:\Users\Admin\Desktop\base.txt"
+$encryptedFilePath = "C:\Users\Admin\Desktop\base64"
 
 $data = Get-Content $filePath -Encoding Byte
 
